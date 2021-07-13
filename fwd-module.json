@@ -1,0 +1,9 @@
+{
+  "id": "eval",
+  "name": "Интерпретатор",
+  "desc": "Предоставляет команду eval",
+  "module": "index.js",
+  "require": [
+    "system"
+  ]
+}
